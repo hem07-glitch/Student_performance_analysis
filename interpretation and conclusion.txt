@@ -1,0 +1,28 @@
+Part E – Interpretation
+1. Which department has the highest average marks?
+Answer: IT department has the highest average marks of 78.
+2. Who are the top three performers?
+Answer:
+1. Divya – 94 marks.
+2. Meena – 91 marks.
+3. Vijay – 89 marks.
+3. How many students have attendance below 75%?
+Answer: 2 students.
+- Rahul – 70%.
+- Anitha – 68%.
+4. What is the relationship between attendance and marks?
+Answer: Attendance and marks have a positive relationship. Students with higher attendance generally achieve higher marks. However, attendance alone does not determine academic performance.
+5. Which students require academic support?
+Answer:
+- Anitha – 48 marks and 68% attendance.
+- Rahul – 58 marks and 70% attendance.
+- Manoj – 55 marks and 75% attendance.
+- Karthik – 65 marks and 78% attendance.
+
+Conclusion
+
+The Student Performance Analysis helps identify students' academic performance, attendance levels and department-wise results. 
+Based on the analysis, the IT department achieved the highest average marks of 78, while the ECE department recorded the lowest average of 70. 
+Divya secured the highest individual mark of 94. 
+Two students have attendance below 75%. 
+Spreadsheet formulas, sorting, filtering, conditional formatting and charts make it easier to analyse student data and identify students who need academic support.
